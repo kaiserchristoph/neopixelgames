@@ -1,0 +1,4 @@
+Chip is ESP32-D0WD (revision v1.0)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Sc
+Crystal is 40MHz
+MAC: c4:de:e2:f4:d1:f0
